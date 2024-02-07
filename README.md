@@ -1,13 +1,12 @@
-### Hi! :D
+### Hi, I'm Sabine 👋🏻👩🏻‍💻
 
 - 🖥 I’m currently a backend developer!
 - 🌱 I’m learning Kotlin for both backend and Android.
 - 👩‍💻 My pronouns are she/her :)
 
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/sabinehernandes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinehernandes&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinehernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
