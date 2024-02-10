@@ -1,10 +1,11 @@
 ### Hi, I'm Sabine 👋🏻👩🏻‍💻
 
-- 🖥 I’m currently a backend developer!
-- 🌱 I’m learning Kotlin for both backend and Android.
+- 👩🏻‍🎓 Bachelor in Business Administration by UNIFESP
+- 💻 Worked as a Kotlin backend developer at Itaú before following my dream to study English abroad
+- 🌱 Learning frontend development and UX/UI design
 - 👩‍💻 My pronouns are she/her :)
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/sabinehernandes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinehernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
